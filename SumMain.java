@@ -4,5 +4,11 @@ Class SumMain{
 		obj.Result();
 		Sum obj1 = new Sum();
 		obj1.Sum();
+		main();
+	}
+	public static int main(){
+		Sum obj1 = new Sum();
+		obj1.Sum();
+		return 0;
 	}
 }
