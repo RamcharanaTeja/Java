@@ -1,0 +1,12 @@
+Class Sum{
+	int a;
+	int b;
+	Sum(){
+	a = 0;
+	b = 0;
+	}
+	Sum(int x, int y){
+	a = x;
+	b = y;
+	}
+}
