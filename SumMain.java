@@ -10,6 +10,6 @@ Class SumMain{
 		Sub obj1 = new Sub();
 		Sum obj = new Sum();
 		obj.Sum();
-		return 0;
+		return 0;//demo
 	}
 }
