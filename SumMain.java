@@ -7,8 +7,8 @@ Class SumMain{
 		main();
 	}
 	public static int main(){
-		Sum obj1 = new Sum();
-		obj1.Sum();
+		Sub obj1 = new Sub();
+	
 		return 0;
 	}
 }
