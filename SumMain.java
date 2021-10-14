@@ -8,9 +8,11 @@ Class SumMain{
 	}
 	public static int main(){
 		Sub obj1 = new Sub();
+
 		Mul obj2 = new Mull();
 		Sum obj3 = new Sum();
 	
 		return 0;
+
 	}
 }
