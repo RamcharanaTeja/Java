@@ -12,4 +12,6 @@ Class Sum{
 	public int Result(){
 	return a+b;
 	}
+	public static void main(){
+	}
 }
